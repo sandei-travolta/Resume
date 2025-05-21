@@ -1,7 +1,7 @@
 # Travolta Sandei
 
 **Flutter Developer**
-Nakuru, Kenya | sandeitravolta@gmail.com | +254 7292406400 | 
+Nakuru, Kenya | sandeitravolta@gmail.com | +254 792406400 | 
 
 **Linkedin :** https://linkedin.com/in/travolta-sandei-flutter-dev |
 
