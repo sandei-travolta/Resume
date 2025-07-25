@@ -1,7 +1,7 @@
 # Travolta Sandei
 
 **Flutter Developer**
-Nakuru, Kenya | sandeitravolta@gmail.com | +254 792406400 | 
+Kenya | sandeitravolta@gmail.com | +254 792406400 | 
 
 **Linkedin :** https://linkedin.com/in/travolta-sandei-flutter-dev |
 
@@ -19,6 +19,13 @@ Nakuru, Kenya | sandeitravolta@gmail.com | +254 792406400 |
 
 **Flutter Developer at Africer Tech**
 *remote | October 2023 – January 2024 | 4 months*
+
+* Developed and maintained In-house Cross-Platform apps applications using Flutter.
+* Created reusable UI components, improving consistency across the product and reducing development time for new features.
+* Collaborated closely with the backend team to deliver apps with dynamic features.
+  
+**ICT intern at Water Sector Trust Fund**
+*Nairobi | February 2025 – April 2025 | 3 months*
 
 * Developed and maintained In-house Cross-Platform apps applications using Flutter.
 * Created reusable UI components, improving consistency across the product and reducing development time for new features.
