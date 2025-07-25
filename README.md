@@ -11,8 +11,8 @@ Kenya | sandeitravolta@gmail.com | +254 792406400 |
 ## Skills
 
 * **Programming Languages**: HTML, CSS, JavaScript, Java, Dart, SQL, NOSql
-* **Frameworks**: TailWind,Nodejs,Flutter,SpringBoot
-* **Tools**: Git, Firebase, Superbase, AWS
+* **Frameworks**: TailWind,Flutter,React,SpringBoot,
+* **Tools**: Git, Firebase, Superbase, AWS,MongoDB
 
 ***
 ## Experience
