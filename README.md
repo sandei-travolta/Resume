@@ -27,9 +27,13 @@ Kenya | sandeitravolta@gmail.com | +254 792406400 |
 **ICT intern at Water Sector Trust Fund**
 *Nairobi | February 2025 – April 2025 | 3 months*
 
-* Developed and maintained In-house Cross-Platform apps applications using Flutter.
-* Created reusable UI components, improving consistency across the product and reducing development time for new features.
-* Collaborated closely with the backend team to deliver apps with dynamic features.
+* Assisting with hardware and software troubleshooting.
+* Helping users resolve issues related to computers, printers, and applications.
+* I provided front-line support via in-person assistance.
+* I helped set up and configure new systems, including installing operating systems, productivity tools, and network settings.
+* I maintained IT inventory by tracking equipment and updating asset records.
+* I supported basic network troubleshooting tasks such as diagnosing connectivity issues and configuring Wi-Fi.
+* Contributed to creating and updating documentation for common technical procedures.
 ***
 
 ## Projects
