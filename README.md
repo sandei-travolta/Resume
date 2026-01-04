@@ -3,16 +3,22 @@
 **Flutter Developer**
 Kenya | sandeitravolta@gmail.com | +254 792406400 | 
 
-**Linkedin :** https://linkedin.com/in/travolta-sandei-flutter-dev |
 
 **GitHub :** https://github.com/sandei-travolta |  
 **Portforlio:** https://sandei-travolta-portforlio.vercel.app/
 ***
 ## Skills
 
-* **Programming Languages**: HTML, CSS, JavaScript, Java, Dart, SQL, NOSql
-* **Frameworks**: TailWind,Flutter,React,NextJs,SpringBoot,
+* **Programming Languages**: Python,HTML, CSS, JavaScript, Java, Dart, SQL, NOSql
+* **Frameworks**: HuggingFace,PyTorch,TensorFlow,FastAPI,TailWind,Flutter,React,NextJs,SpringBoot,
 * **Tools**: Git, Firebase, Superbase, AWS,MongoDB
+* **AI/NLP**:
+*  Natural Language Processing
+*  Transformer Models
+*  Text Classification & Intent Detection
+*  Text Generation & Conversational AI
+*  Model Fine-Tuning & Evaluatio
+*  okenization, Embeddings & Attention Mechanisms
 
 ***
 ## Experience
@@ -47,10 +53,16 @@ Kenya | sandeitravolta@gmail.com | +254 792406400 |
   
 https://github.com/sandei-travolta/planet_saver
 
-**File Management System**
-*A REST API build for a file management sytem*
+**IT Help Desk Chatbot**
+*A whatsapp tech support chat bot system with ai models to classify requests and provide responses.
 
-* Built with Java SpringBoot and Firebase for file and data storage
+* WhatsApp chatbot interface for real-time tech support conversations.
+* Transformer-based classification using distilbert-base-uncased to categorize incoming user requests.
+* AI response generation with flan-t5-small.
+* Admin panel for managing support workflows and monitoring performance
+* Modular project structure with backend APIs (FastAPI, Spring Boot), frontend (Flutter), and training scripts
+
+https://github.com/sandei-travolta/tech-support-ai-assistant  
 ***
 
 ## Education
