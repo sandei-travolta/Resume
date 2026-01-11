@@ -12,13 +12,20 @@ Kenya | sandeitravolta@gmail.com | +254 792406400 |
 * **Programming Languages**: Python,HTML, CSS, JavaScript, Java, Dart, SQL, NOSql
 * **Frameworks**: HuggingFace,PyTorch,TensorFlow,FastAPI,TailWind,Flutter,React,NextJs,SpringBoot,
 * **Tools**: Git, Firebase, Superbase, AWS,MongoDB
+* **Flutter**:
+>* Strong understanding of the dart Programming language
+>* Understanding of the MVVM Architecture 
+>* Rest API intergration
+>* SDK and third party libraries intergration
+>* GraphQL intergration
+
 * **AI/NLP**:
-*  Natural Language Processing
-*  Transformer Models
-*  Text Classification & Intent Detection
-*  Text Generation & Conversational AI
-*  Model Fine-Tuning & Evaluatio
-*  okenization, Embeddings & Attention Mechanisms
+>*  Natural Language Processing
+>*  Transformer Models
+>*  Text Classification & Intent Detection
+>*  Text Generation & Conversational AI
+>*  Model Fine-Tuning & Evaluatio
+>*  okenization, Embeddings & Attention Mechanisms
 
 ***
 ## Experience
