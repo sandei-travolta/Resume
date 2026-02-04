@@ -89,6 +89,7 @@ https://github.com/sandei-travolta/planet_saver
 * Modular project structure with backend APIs (FastAPI, Spring Boot), frontend (Flutter), and training scripts
 
 https://github.com/sandei-travolta/tech-support-ai-assistant
+
 https://huggingface.co/spaces/Sandei/tech-support-helpdesk-chatbot
 ***
 
