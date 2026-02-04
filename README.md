@@ -91,6 +91,17 @@ https://github.com/sandei-travolta/planet_saver
 https://github.com/sandei-travolta/tech-support-ai-assistant
 
 https://huggingface.co/spaces/Sandei/tech-support-helpdesk-chatbot
+
+**MAJI APP**
+*A water delivery ecommerce platform with multistore features*
+
+* Developed using Next.js to deliver a fast, responsive, and SEO-friendly web application.
+* Integrated map services to visualize water vendors, delivery routes, and customer locations in real time.
+* Implemented proximity-based matching to automatically connect users with the nearest available water vendors for efficient fulfillment.
+* Created a backend system for payments consuming the Mpesa Daraja Api using Java SpringBoot
+* Integrated M-Pesa payments via the Daraja API, enabling secure and seamless mobile money transactions.
+  
+https://water-delivery-eccormerce.vercel.app
 ***
 
 ## Education
