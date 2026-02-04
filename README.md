@@ -12,7 +12,11 @@ Kenya | sandeitravolta@gmail.com | +254 792406400 |
 * **Programming Languages**: Python,HTML, CSS, JavaScript, Java, Dart, SQL, NOSql
 * **Frameworks**: HuggingFace,PyTorch,TensorFlow,FastAPI,TailWind,Flutter,React,NextJs,SpringBoot,
 * **Tools**: Git, Firebase, Superbase, AWS,MongoDB
-
+* **WEB DEVELOPMENT**
+>* HTML,CSS,JAVASCRIPT,TYPESCRIPT
+>* React,NextJS,EXPRESSJS,NodeJS
+>* DATABASES: FireBase,PostgreSQL,MONGODB
+ 
 * **Flutter**:
 >* Strong understanding of the dart Programming language
 >* Understanding of the MVVM Architecture 
@@ -34,8 +38,11 @@ Kenya | sandeitravolta@gmail.com | +254 792406400 |
 >*  Transformer Models
 >*  Text Classification & Intent Detection
 >*  Text Generation & Conversational AI
->*  Model Fine-Tuning & Evaluatio
+>*  Model Fine-Tuning & Evaluation
 >*  Tokenization, Embeddings & Attention Mechanisms
+>*  Quantization
+>*  quantization
+>*  MLDeVOP
 
 ***
 ## Experience
@@ -75,16 +82,19 @@ https://github.com/sandei-travolta/planet_saver
 
 * WhatsApp chatbot interface for real-time tech support conversations.
 * Transformer-based classification using distilbert-base-uncased to categorize incoming user requests.
-* AI response generation with flan-t5-small.
+* LLAMA and TinyLlama/TinyLlama-1.1B-Chat-v1.0 and RAG pipeline for Text Generation.
+* Quantization
+* MLDEVOPS: containerization using docker and deploying to huggingface 
 * Admin panel for managing support workflows and monitoring performance
 * Modular project structure with backend APIs (FastAPI, Spring Boot), frontend (Flutter), and training scripts
 
-https://github.com/sandei-travolta/tech-support-ai-assistant  
+https://github.com/sandei-travolta/tech-support-ai-assistant
+https://huggingface.co/spaces/Sandei/tech-support-helpdesk-chatbot
 ***
 
 ## Education
 
 **Bachelor of Science in Computer Science**
-*Dedan Kimathi University of Technology | 2021 – present*
+*Dedan Kimathi University of Technology | 2021 – 2026
 
 ***
