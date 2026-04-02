@@ -107,6 +107,6 @@ https://water-delivery-eccormerce.vercel.app
 ## Education
 
 **Bachelor of Science in Computer Science**
-*Dedan Kimathi University of Technology | 2021 – 2026
+*Dedan Kimathi University of Technology | 2021 – 
 
 ***
